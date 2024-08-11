@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tFGCSMktOw=",
+  "success": true,
+  "projectFilePath": "/Users/vashishthgajjar/Dev/Sales-Management-Portal/project.csproj",
+  "expectedPackageFiles": [
+    "/Users/vashishthgajjar/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/vashishthgajjar/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

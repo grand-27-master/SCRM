@@ -1,0 +1,4 @@
+/Users/vashishthgajjar/Dev/Sales-Management-Portal/obj/Debug/net48/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vashishthgajjar/Dev/Sales-Management-Portal/obj/Debug/net48/project.AssemblyInfoInputs.cache
+/Users/vashishthgajjar/Dev/Sales-Management-Portal/obj/Debug/net48/project.AssemblyInfo.cs
+/Users/vashishthgajjar/Dev/Sales-Management-Portal/obj/Debug/net48/project.csproj.CoreCompileInputs.cache
